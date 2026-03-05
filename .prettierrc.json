@@ -1,0 +1,17 @@
+{
+  "printWidth": 120,
+  "trailingComma": "es5",
+  "tabWidth": 2,
+  "semi": false,
+  "singleQuote": false,
+  "tailwindStylesheet": "./app/assets/tailwind/application.css",
+  "plugins": ["prettier-plugin-tailwindcss"],
+  "overrides": [
+    {
+      "files": "*.turbo_stream.erb",
+      "options": {
+        "parser": "html-erb"
+      }
+    }
+  ]
+}

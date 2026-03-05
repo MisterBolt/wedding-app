@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "prettier": "^3.8.1",
+    "prettier-plugin-tailwindcss": "https://github.com/madmax/prettier-plugin-tailwindcss#html-erb-v7"
+  }
+}
